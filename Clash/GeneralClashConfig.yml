@@ -15,7 +15,7 @@ mixed-port: 7890
 # redir-port: 7892
 
 # 允许局域网的连接, 可用来共享代理
-allow-lan: true
+allow-lan: false
 
 # 仅在将allow-lan设置为 true 时适用
 # "*": 绑定所有IP地址
@@ -100,7 +100,6 @@ dns:
   # fake-ip-filter: # fake ip 白名单列表，如果你不知道这个参数的作用，请勿修改
   #    - '*.lan'
   #    - localhost.ptlogin2.qq.com
-  enhanced-mode: fake-ip
   nameserver:
      - https://dns.amoe.cc/dns-query
   fallback:
