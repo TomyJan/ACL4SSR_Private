@@ -22,6 +22,7 @@ DOMAIN-SUFFIX,tebex.io
 # Tailscale
 DOMAIN,log.tailscale.io
 DOMAIN,controlplane.tailscale.com
+PROCESS-NAME,tailscale
 
 # CN域名直连(中国|公司|网络)
 DOMAIN-SUFFIX,cn
