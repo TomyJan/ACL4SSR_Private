@@ -65,7 +65,7 @@ cfw-conn-break-strategy: true
 
 # Clash for Android
 clash-for-android: 
-  ui-subtitle-pattern: "\\[\w\\][\u4e00-\u9fa5]+[A-Z]"
+  ui-subtitle-pattern: "\\[\\w\\][\u4e00-\u9fa5]+[A-Z]"
 
 # Stash
 url-rewrite:
