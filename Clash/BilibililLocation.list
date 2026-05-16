@@ -1,13 +1,11 @@
 # 内容：Bilibili 哔哩哔哩 归属地 来自 https://github.com/heinu123/bilibili-clash/blob/main/bilibili.yaml
-# 数量：16条
-DOMAIN,api.bilibili.tv
-DOMAIN,app.bilibili.com
-DOMAIN,passport.bilibili.com
-DOMAIN,message.bilibili.com
+# 数量：14 条
+DOMAIN,api.biliapi.net
+DOMAIN,grpc.biliapi.net
+DOMAIN,api.biliapi.com
+DOMAIN,api.vc.bilibili.com
 DOMAIN,api.bilibili.com
-DOMAIN,cm.bilibili.com
-DOMAIN-SUFFIX,acg.tv
-DOMAIN-SUFFIX,biligame.com
+DOMAIN,app.bilibili.com
 IP-CIDR,106.75.74.76/32
 IP-CIDR,111.206.25.147/32
 IP-CIDR,119.3.238.64/32

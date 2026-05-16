@@ -1,0 +1,5 @@
+# Tailscale
+DOMAIN,log.tailscale.io
+DOMAIN,controlplane.tailscale.com
+PROCESS-NAME,tailscale.exe
+PROCESS-NAME,tailscaled.exe
