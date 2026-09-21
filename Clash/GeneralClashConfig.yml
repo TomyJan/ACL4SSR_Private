@@ -132,8 +132,11 @@ dns:
   #    - '*.lan'
   #    - localhost.ptlogin2.qq.com
   nameserver:
-     - tls://dns.amoe.cc:853
-     - https://dns.amoe.cc/dns-query
+     - https://dns0.amoe.cc/dns-query
+     - tls://dns1.amoe.cc:853
+     - https://dns1.amoe.cc/dns-query
+     - https://dns2.amoe.cc/dns-query
+     - https://dns3.amoe.cc/dns-query
   fallback:
      - tls://1.0.0.1:853
      - https://1.0.0.1/dns-query
